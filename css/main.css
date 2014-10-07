@@ -1,0 +1,11 @@
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+	background-color: #99cccc;
+}
+
+img {
+	max-width: 600px;
+	padding: 1em;
+	background-color: #2aa198;
+}
